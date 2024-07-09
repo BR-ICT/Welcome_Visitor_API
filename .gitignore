@@ -1,0 +1,11 @@
+# Eclipse #
+/.project
+/.settings
+bin/**
+
+# Maven #
+target/
+/.mvn
+/.maven
+/.repository
+.flattened-pom.xml
